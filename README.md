@@ -1,16 +1,18 @@
-# checking
+# Dice Rolling App
 
-A new Flutter project.
+Welcome to the Dice Rolling App, a simple Flutter project that allows users to roll virtual dice.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://github.com/Amourya03/rolling_dice_Android-App/assets/109551962/892405d7-d8b8-45f0-85c2-43707ab792cd" width="300" height="500" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Contributing
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+If you'd like to contribute to the project, Make the pull request with modified code.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+ 
